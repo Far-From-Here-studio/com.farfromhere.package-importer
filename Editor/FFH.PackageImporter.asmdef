@@ -1,5 +1,5 @@
 {
-    "name": "FFH.PackageManager",
+    "name": "FFH.PackageImporter.Editor",
     "rootNamespace": "",
     "references": [],
     "includePlatforms": [],

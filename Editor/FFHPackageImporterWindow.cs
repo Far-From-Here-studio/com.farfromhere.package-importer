@@ -7,7 +7,7 @@ using UnityEditor.PackageManager.Requests;
 using UnityEditor.PackageManager;
 using UnityEngine;
 
-namespace FFH.PackageManager
+namespace FFH.PackageImporter.Editor
 {
     public abstract class FFHPackageImporterWindow : EditorWindow
     {

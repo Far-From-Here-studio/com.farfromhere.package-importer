@@ -2,7 +2,7 @@ using UnityEditor;
 using UnityEditor.SceneManagement;
 using System.Collections.Generic;
 
-namespace FFH.PackageManager
+namespace FFH.PackageImporter.Editor
 {
     public static class SceneReloader
     {

@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace FFH.PackageManager
+namespace FFH.PackageImporter.Editor
 {
     [System.Serializable]
     public class PackageActive
