@@ -1,0 +1,12 @@
+{
+  "name": "com.farfromhere.package-importer",
+  "displayName": "FFHStudio Package Importer",
+  "description": "Custom Package Importer windows used to setup Far From Here Studio's template projects with custom packages using Unity package manager API",
+  "version": "0.0.1",
+  "unity": "6000.0",
+  "relatedPackages": {},
+  "repository": {
+    "url": "https://github.com/Far-From-Here-studio/com.farfromhere.package-importer.git",
+    "type": "git"
+  }
+}
